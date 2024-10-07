@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94049525856",
+    "project_id": "j-prevas",
+    "storage_bucket": "j-prevas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94049525856:android:5a9a9c8ae29c2e394ca305",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzWiJhLRWP8aadHliqK0WpDu5Y8Cpy0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
